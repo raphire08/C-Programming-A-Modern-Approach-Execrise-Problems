@@ -11,7 +11,7 @@ int main() {
     int epoch1 = (y1 - y0) * 365 + (m1 - m0) * 30 + (d1 - d0);
     int epoch2 = (y2 - y0) * 365 + (m2 - m0) * 30 + (d2 - d0);
 
-    if(epoch1 < epoch2) {
+    if (epoch1 < epoch2) {
         printf("%d/%d/%d is earlier than %d/%d/%d \n", m1, d1, y1, m2, d2, y2);
     } else {
         printf("%d/%d/%d is earlier than %d/%d/%d \n", m2, d2, y2, m1, d1, y1);
