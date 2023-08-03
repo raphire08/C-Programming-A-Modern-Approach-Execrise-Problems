@@ -3,6 +3,7 @@
         "cstdio": "c",
         "__locale": "c",
         "cctype": "c",
-        "locale": "c"
+        "locale": "c",
+        "stdio.h": "c"
     }
 }
