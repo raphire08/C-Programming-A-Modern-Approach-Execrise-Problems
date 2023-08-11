@@ -4,6 +4,7 @@
         "__locale": "c",
         "cctype": "c",
         "locale": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "ctype.h": "c"
     }
 }
